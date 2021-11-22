@@ -23,6 +23,8 @@ def tester2Func2():
 
 def tester2Func3():
     print("tester2Func3")
+    print("tester2Func3")
+    print("tester2Func3")
 
 if __name__ == '__main__':
     print_hi('PyCharm')
