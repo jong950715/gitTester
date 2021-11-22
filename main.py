@@ -15,6 +15,10 @@ def masterFunc3():
     print("masterFunc3")
     pass
 
+def masterFunc4():
+    print("masterFunc4")
+    pass
+
 def tester1Func1():
     pass
 
