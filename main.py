@@ -25,10 +25,16 @@ def tester1Func1():
 def tester2Func2():
     print("tester2Func2")
 
+
 def tester2Func3():
     print("tester2Func3")
     print("tester2Func3")
     print("tester2Func3")
+
+
+def tester2Func4():
+    print("tester2Func4")
+
 
 if __name__ == '__main__':
     print_hi('PyCharm')
