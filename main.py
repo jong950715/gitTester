@@ -10,5 +10,8 @@ def masterFunc1():
 def masterFunc2():
     pass
 
+def tester1Func1():
+    pass
+
 if __name__ == '__main__':
     print_hi('PyCharm')
