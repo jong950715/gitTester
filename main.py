@@ -8,6 +8,7 @@ def masterFunc1():
     pass
 
 def masterFunc2():
+    print("masterFunc2")
     pass
 
 def tester1Func1():
